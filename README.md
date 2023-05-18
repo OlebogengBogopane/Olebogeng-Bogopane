@@ -12,3 +12,5 @@ What sets me apart is my strong communication and collaboration skills. I am an 
 
 As a junior software developer, I am excited to apply my skills and knowledge in a professional setting, while also continuing to learn and grow alongside experienced professionals. I am highly motivated, detail-oriented, and always strive for excellence in my work. 
 
+
+Attached is a link to my digital resume https://github.com/OlebogengBogopane/OLEBOG971_BCL2302_Justin_Olebogeng_Bogopane.git
