@@ -6,6 +6,7 @@ I am a student at Bafokeng CodeLab with a strong passion for programming and pro
 
 
 I am familiar with web development technologies such as HTML, CSS, and JavaScript which  enable me to adapt and learn new technologies quickly.
+![htmlcssjs-details](https://github.com/OlebogengBogopane/Olebogeng-Bogopane/assets/125870308/03d655c3-70bc-46c9-80f2-d8dcd3733300)
 
 What sets me apart is my strong communication and collaboration skills. I am an avid believer in effective teamwork and actively seek opportunities to contribute to a positive and productive work environment. I thrive in collaborative settings where ideas are shared, and I am always eager to learn from my peers and mentors.
 
