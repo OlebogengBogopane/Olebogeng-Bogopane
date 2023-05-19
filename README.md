@@ -1,4 +1,4 @@
-# Olebogeng-Bogopane
+# OlebogengBogopane
 
 I am a student at Bafokeng CodeLab with a strong passion for programming and problem-solving, I am eager to embark on a professional journey where I can contribute my skills and continue to grow as a software developer.
 
