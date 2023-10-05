@@ -1,7 +1,5 @@
 # OlebogengBogopane
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3d2E1StKFx_jwFYnKEhrmR&ust=1696582194511000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCRza7D3oEDFQAAAAAdAAAAABAZ
-
 I am a student at Bafokeng CodeLab with a strong passion for programming and problem-solving, I am eager to embark on a professional journey where I can contribute my skills and continue to grow as a software developer.
 
  I have dedicated myself to acquiring a solid foundation in Software Development. I have a strong understanding of fundamental concepts such as  data structures, Arrays, and Loops. Additionally, I have gained practical experience coding with microbit, which have sharpened my ability to analyze, design, and implement software solutions.
